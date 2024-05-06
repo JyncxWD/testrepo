@@ -1,7 +1,7 @@
 function injectInjectionScript() {
     const webflowURLs = {
-        production: 'https://dev-emgas-navbar-nw.webflow.io/', // production URL for your Webflow site
-        staging: 'https://dev-emgas-navbar-nw.webflow.io/' // staging URL for your Webflow site
+        production: 'https://domain-name-navbar-nw.webflow.io/', // production URL for your Webflow site
+        staging: 'https://domain-name-navbar-nw.webflow.io/' // staging URL for your Webflow site
         //production: 'http://localhost/mycdn/', // production URL for your Webflow site
         //staging: 'http://localhost/mycdn/' // staging URL for your Webflow site
     };
